@@ -8,7 +8,7 @@ setup(
     version = '0.0.1',
     description = 'System for Plover that divides the left hand S',
     author = 'Gregory Chamberlain',
-    author_email = 'chambln@pm.me',
+    author_email = 'greg@cosine.blue',
     license =  'GNU General Public License v2 or later (GPLv2+)',
     classifiers = [
         'Development Status :: 4 - Beta',
